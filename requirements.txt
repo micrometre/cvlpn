@@ -1,0 +1,11 @@
+sphinx
+sphinx_rtd_theme
+numpy
+flask-cors
+pandas
+opencv-python
+beanstalkc3
+pytesseract
+requests 
+flask
+matplotlib

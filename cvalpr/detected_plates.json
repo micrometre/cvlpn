@@ -1,0 +1,16 @@
+{
+    "plates": [
+        {
+            "plate_text": "HOPo KLP",
+            "coordinates": {
+                "x": 102,
+                "y": 52,
+                "width": 144,
+                "height": 48
+            },
+            "image_file": "plate_102_52.jpg",
+            "timestamp": "2025-04-20T12:55:29.296499"
+        }
+    ],
+    "total_plates": 1
+}
